@@ -1,4 +1,10 @@
 {
+    "name": "@bishopclassicmotors/github",
+    "version": "0.0.0",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/BishopClassicMotors/.github.git"
+    },
     "devDependencies": {
         "husky": "^8.0.3",
         "lint-staged": "^13.1.0",
